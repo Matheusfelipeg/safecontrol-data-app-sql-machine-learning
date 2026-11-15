@@ -52,8 +52,21 @@ Um dos principais pontos de atenção na integração foi garantir a consistênc
 
 ## Como rodar
 
-1. Clone o repositório e acesse a pasta do projeto:
+Clone o repositório:
 
-```bash
-git clone <url-do-repositorio>
-cd <nome-da-pasta>
+git clone https://github.com/seu-usuario/safecontrol-epi-analytics.git
+
+
+Configure o Banco de Dados:
+Execute o script database_setup.sql (localizado na pasta /sql) no SQL Server para criar as tabelas e inserir os dados base.
+
+Instale as bibliotecas necessárias:
+Execute o comando abaixo no seu terminal para instalar todas as dependências do projeto:
+
+pip install streamlit pandas numpy scikit-learn altair weasyprint pyodbc
+
+
+Inicie a aplicação:
+
+py -m streamlit run app_safecontrol.py
+
