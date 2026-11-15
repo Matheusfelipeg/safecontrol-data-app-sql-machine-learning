@@ -57,7 +57,7 @@ git clone https://github.com/seu-usuario/safecontrol-epi-analytics.git
 cd safecontrol-epi-analytics
 
 # 2. Configure o Banco de Dados
-# Execute o script database_setup.sql (localizado na pasta /sql) no SQL Server para criar as tabelas e inserir os dados base.
+Execute o script database_setup.sql (localizado na pasta /sql) no SQL Server para criar as tabelas e inserir os dados base.
 
 # 3. Instale as bibliotecas necessárias
 pip install streamlit pandas numpy scikit-learn altair weasyprint pyodbc
