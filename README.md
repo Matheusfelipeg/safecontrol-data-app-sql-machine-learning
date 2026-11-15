@@ -53,8 +53,7 @@ Um dos principais pontos de atenção na integração foi garantir a consistênc
 ## Como rodar
 
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/safecontrol-epi-analytics.git
-cd safecontrol-epi-analytics
+git clone https://github.com/Matheusfelipeg/safecontrol-data-app-sql-machine-learning.git
 
 # 2. Configure o Banco de Dados
 Execute o script database_setup.sql (localizado na pasta /sql) no SQL Server para criar as tabelas e inserir os dados base.
