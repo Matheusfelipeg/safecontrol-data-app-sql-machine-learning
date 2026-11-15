@@ -2,7 +2,7 @@
 
 Plataforma de gestão e controle de entrega de Equipamentos de Proteção Individual (EPIs), desenvolvida para eliminar o uso de fichas de papel e reduzir perdas de documentos no acompanhamento de segurança do trabalho.
 
-![Tela inicial com dashboard de gestão à vista](assets/pagina inicial dashboard.png)
+![Tela inicial com dashboard de gestão à vista](assets/pagina_inicial_dashboard.png)
 
 ## Contexto
 
