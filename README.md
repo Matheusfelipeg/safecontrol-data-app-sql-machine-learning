@@ -31,7 +31,7 @@ O sistema foi dividido em duas frentes conectadas ao mesmo banco de dados no SQL
 
 **Operação e cadastro em tempo real (Streamlit)**
 ![Interface de cadastro de entrega de EPIs no Streamlit](assets/cadastro_epi.png)
-[Interface de cadastro de entrega de Entregas](assets/cadastro_entregas.png)
+![Interface de cadastro de entrega de Entregas](assets/cadastro_entregas.png)
 
 **Análise de desgaste antecipado (K-Means) e exportação de relatórios**
 ![Tela de análise com K-Means e geração de PDF/CSV](assets/modelocpreditivo.png)
