@@ -54,7 +54,7 @@ Um dos principais pontos de atenção na integração foi garantir a consistênc
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/safecontrol-epi-analytics.git
+git clone https://github.com/Matheusfelipeg/safecontrol-data-app-sql-machine-learning.git
 
 
 Configure o Banco de Dados:
